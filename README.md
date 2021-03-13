@@ -1,17 +1,17 @@
 # LaboratorioGru
+
 MODELADO 3D Laboratorio de Gru
 
-Descripcion:
-Modelo 3D de una escena de la pelicula Minios especificamente el laboratorio de Gru, toda la animacion fue realizada en Maya version 2019.
+Descripción: Modelo 3D de una escena de la película Minions específicamente el laboratorio de Gru, toda la animación fue realizada en Maya versión 2019.
 
-Objetivo:
-Probar habilidades y conocimientos sobre el manejo de Maya y sus herramientas aplicandolos en una escena de una pelicula animada.
+Objetivo: Probar habilidades y conocimientos sobre el manejo de Maya y sus herramientas aplicándolos en una escena de una película animada.
 
 Lenguaje/Herramienta:
 
-Maya version 2019 para todo el tema de modelar y para los texturizados se uso SUBSTANCE version 2018
+Maya versión 2019 para todo el tema de modelar y para los texturizados se usó SUBSTANCE versión 2018
 
-Librerias: librerias Maya version 2019
+Librerías: librerías Maya versión 2019
+
 
 ![modelado](https://user-images.githubusercontent.com/53912323/111039313-5cafff00-83fb-11eb-9c74-585a525e6ccc.png)
 
